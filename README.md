@@ -2,9 +2,15 @@
 
 `hypergo` is a Go client for [HyperDex](https://github.com/rescrv/HyperDex).  This is part of my research project.
 
+## Installation
+
+First of all, [install Hyperdex](http://hyperdex.org/doc/latest/InstallingHyperDex/#chap:installation).  This is necessary because hypergo relies on Hyperdex's official C client.
+
+Then, `go get github.com/derekchiang/hypergo`
+
 ## Status
 
-Work in progress.
+Usable.
 
 ## Credit
 
