@@ -4,7 +4,7 @@
 
 ## Installation
 
-First of all, [install Hyperdex](http://hyperdex.org/doc/latest/InstallingHyperDex/#chap:installation).  This is necessary because hypergo relies on Hyperdex's official C client.
+First of all, [install HyperDex](http://hyperdex.org/doc/latest/InstallingHyperDex/#chap:installation).  This is necessary because hypergo relies on HyperDex's official C client.
 
 Then, `go get github.com/derekchiang/hypergo`
 
