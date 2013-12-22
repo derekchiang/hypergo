@@ -6,6 +6,8 @@
 
 First of all, [install HyperDex](http://hyperdex.org/doc/latest/InstallingHyperDex/#chap:installation).  This is necessary because hypergo relies on HyperDex's official C client.
 
+If installing via a package manager, you would want to also install the HyperDex dev packages. An example based on Debian would be, `apt-get install hyperdex libhyperdex-client-dev libhyperdex-admin-dev libhyperdex-dev`
+
 Then, `go get github.com/derekchiang/hypergo`
 
 ## Status
