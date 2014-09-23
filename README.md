@@ -1,6 +1,8 @@
 # hypergo
 
-`hypergo` is a Go client for [HyperDex](https://github.com/rescrv/HyperDex).  This is part of my research project.
+## DEPRECATION NOTICE
+
+`hypergo` has been merged upstream and can be found in the [HyperDex repo](https://github.com/rescrv/HyperDex).  This repo is no longer maintained.
 
 ## Installation
 
